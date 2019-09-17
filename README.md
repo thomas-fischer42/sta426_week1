@@ -1,0 +1,1 @@
+*Git/Emacs configuration test*
